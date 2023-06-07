@@ -13,5 +13,5 @@ def subtract(first_term: Union[float, int], second_term: Union[float, int]) -> U
     return first_term - second_term
 
 
-def multiplication(first_term: Union[float, int], second_term: Union[float, int]) -> Union[float, int]:
+def multiply(first_term: Union[float, int], second_term: Union[float, int]) -> Union[float, int]:
     return first_term * second_term
