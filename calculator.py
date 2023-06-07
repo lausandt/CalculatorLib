@@ -11,3 +11,7 @@ def add(first_term: Union[float, int], second_term: Union[float, int]) -> Union[
 
 def subtract(first_term: Union[float, int], second_term: Union[float, int]) -> Union[float, int]:
     return first_term - second_term
+
+
+def multiplication(first_term: Union[float, int], second_term: Union[float, int]) -> Union[float, int]:
+    return first_term * second_term
